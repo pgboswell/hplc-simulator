@@ -1,0 +1,7 @@
+HPLC Simulator
+
+The browser model was ported from HPLC Simulator Java version 1.16.
+Project developer: Paul Boswell. The original teaching spreadsheet was contributed by Peter Carr. Dwight Stoll provided educational materials, feedback, and suggestions.
+Compound data and JavaHelp-derived help text retain their source provenance in the application assets.
+
+Publication: Boswell, P. G.; Stoll, D. R.; Carr, P. W.; Nagel, M. L.; Vitha, M. F.; Mabbott, G. A. An Advanced, Interactive, High-Performance Liquid Chromatography Simulator and Instructor Resources. J. Chem. Educ. 2013, 90 (2), 198-202. https://doi.org/10.1021/ed300117b
